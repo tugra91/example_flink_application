@@ -2,7 +2,7 @@
 
 # Data Set
 
-I used Istanbul Municipality public and street wifi daily usage data in the Istanbul Metropolitan Municipality datasets. 
+I used Istanbul Municipality public and street wifi points daily usage data in the Istanbul Metropolitan Municipality datasets. 
 
 You can find data in here = https://data.ibb.gov.tr/en/dataset/ibbwifi-noktalarindaki-gunluk-kullanici-sayilari/resource/c6dcf338-f4e0-4a38-9243-1b9fb414d64e
 
