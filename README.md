@@ -1,4 +1,4 @@
-# example_flink_application
+# Example Flink Application
 
 # Configuration 
 
